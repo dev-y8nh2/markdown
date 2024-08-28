@@ -41,7 +41,10 @@
 
 -------------------------------------------
 ### ✏화면 구성<br>
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 <table>
         <tr align ="center">
           <th colspan="2">PC-Version</th>
